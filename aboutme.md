@@ -6,15 +6,15 @@ subtitle: Learn more about me and my journey!
 
 Hello! I’m Jasmine Huynh, an aspiring AI/ML Engineer and Data Scientist passionate about leveraging cutting-edge technology to solve complex problems and sharing knowledge through research and teaching.  
 
-Currently pursuing a **Master of Information Technology majoring in Artificial Intelligence** at Macquarie University, I combine technical expertise with a commitment to mentoring and empowering others. My journey reflects a dedication to lifelong learning, collaboration, and driving meaningful impact in the tech community.
+Currently pursuing a Master of Information Technology majoring in Artificial Intelligence at Macquarie University, I combine technical expertise with a commitment to mentoring and empowering others. My journey reflects a dedication to lifelong learning, collaboration, and driving meaningful impact in the tech community.
 
 ---
 
 ### 🚀 **My Journey**  
 
-My academic and professional paths began in **Business Marketing**, where I developed a strong foundation in understanding customer behavior and strategy. This ignited a fascination with data-driven decision-making and inspired me to pivot toward technology. I transitioned to studying **Business Analytics** and later delved deeper into **Artificial Intelligence**, where I discovered the transformative potential of machine learning and research.
+My academic and professional paths began in Business Marketing, where I developed a strong foundation in understanding customer behavior and strategy. This ignited a fascination with data-driven decision-making and inspired me to pivot toward technology. I transitioned to studying Business Analytics and later delved deeper into Artificial Intelligence, where I discovered the transformative potential of machine learning and research.
 
-In my professional career, roles like **Customer Data Analyst** and **Product Owner** taught me how data, technology, and collaboration intersect to create impactful solutions. Beyond the workplace, my passion for **teaching and mentoring** emerged as a core part of my identity, driving me to empower others through shared knowledge.
+In my professional career, roles like Customer Data Analyst and Product Owner taught me how data, technology, and collaboration intersect to create impactful solutions. Beyond the workplace, my passion for teaching and mentoring emerged as a core part of my identity, driving me to empower others through shared knowledge.
 
 ---
 
@@ -44,7 +44,7 @@ In my professional career, roles like **Customer Data Analyst** and **Product Ow
 
 ### 🌱 **What Drives Me**  
 
-At the core of my journey is a belief in the power of **knowledge-sharing and collaboration**. Whether leading research projects, developing AI solutions, or mentoring students, I strive to inspire others and create meaningful change.  
+At the core of my journey is a belief in the power of knowledge-sharing and collaboration. Whether leading research projects, developing AI solutions, or mentoring students, I strive to inspire others and create meaningful change.  
 
 My work ethic revolves around:  
 - **Adaptability**: Embracing challenges as opportunities for growth.  
