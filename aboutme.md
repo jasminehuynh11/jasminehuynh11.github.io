@@ -21,23 +21,23 @@ In my professional career, roles like Customer Data Analyst and Product Owner ta
 ### 🌟 **Key Highlights**  
 
 #### Education  
-- **Master of Information Technology (AI)** – Macquarie University (2024 – Present)  
+- Master of Information Technology (AI) – Macquarie University (2024 – Present)  
   - WAM: 86.67/100 (Highest Achiever in Data Science and Intelligent Machines Units)  
-- **Bachelor of Business Analytics** – Macquarie University (2021 – 2023)  
+- Bachelor of Business Analytics – Macquarie University (2021 – 2023)  
   - WAM: 88.14/100 (Awarded Sydney Factory Award 2023 for Excellence in Cybersecurity Governance)  
 
 #### Professional Experience  
-- **Research Intern at CSIRO x Pawsey Supercomputing Research Centre**  
+- Research Intern at CSIRO x Pawsey Supercomputing Research Centre
   - Utilized Large Language Models to simulate energy consumption patterns, advancing Australia’s energy transition initiatives.
-- **Data and AI Strategy Analyst at Horizon X**  
+- Data and AI Strategy Analyst at Horizon X
   - Designed AI governance frameworks and analyzed AI adoption trends in Australian retail.    
-- **Product Owner at Buymed**  
+- Product Owner at Buymed
   - Spearheaded the development of ERP 2.0 and implemented a QR code system, reducing stock losses by 30.52%.    
 
 #### Leadership and Community  
-- **Executive Treasurer, Macquarie Association of Computing Students (MACS)**  
+- Executive Treasurer, Macquarie Association of Computing Students (MACS) 
   - Co-hosted flagship events like MACSCON 2024, growing society funds and fostering a 6,900-member community.  
-- **Career Mentor, Tra Da Mentor**  
+- Career Mentor, Tra Da Mentor
   - Guided Vietnamese students in career decisions and study-abroad aspirations, with a focus on AI and research.
 
 ---
@@ -47,9 +47,9 @@ In my professional career, roles like Customer Data Analyst and Product Owner ta
 At the core of my journey is a belief in the power of knowledge-sharing and collaboration. Whether leading research projects, developing AI solutions, or mentoring students, I strive to inspire others and create meaningful change.  
 
 My work ethic revolves around:  
-- **Adaptability**: Embracing challenges as opportunities for growth.  
-- **Collaboration**: Building bridges across diverse teams to achieve common goals.  
-- **Empowerment**: Helping others unlock their potential, knowing that shared success is the most rewarding.  
+- Adaptability: Embracing challenges as opportunities for growth.  
+- Collaboration: Building bridges across diverse teams to achieve common goals.  
+- Empowerment: Helping others unlock their potential, knowing that shared success is the most rewarding.  
 
 ---
 
