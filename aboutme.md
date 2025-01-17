@@ -1,22 +1,18 @@
 ---
 layout: page
-title: About Me
-subtitle: My Journey in Technology, Research, and Leadership
+title: About me
+subtitle: Learn more about me and my journey!
 ---
 
 Hello! I’m Jasmine Huynh, an aspiring AI/ML Engineer and Data Scientist passionate about leveraging data and technology to solve complex problems. My journey is rooted in a love for learning, a dedication to research, and a commitment to sharing knowledge through teaching and leadership.
 
-Currently pursuing a **Master of Information Technology specializing in Artificial Intelligence** at Macquarie University, I combine academic excellence with hands-on experience in industry and research. My goal is to create impactful solutions while mentoring the next generation of innovators.
-
----
+Currently pursuing a Master of Information Technology specializing in Artificial Intelligence at Macquarie University, I combine academic excellence with hands-on experience in industry and research. My goal is to create impactful solutions while mentoring the next generation of innovators.
 
 ### 🚀 My Journey  
 
 I began my career in business marketing, where I gained valuable insights into customer behavior and strategy. This experience sparked a fascination with data-driven decision-making, leading me to transition to business analytics and, eventually, artificial intelligence.  
 
-Over the years, I’ve taken on roles like **Customer Data Analyst**, **Product Owner**, and **Research Intern**, which allowed me to apply technology to real-world challenges. Alongside my professional journey, I’ve embraced teaching and mentoring as a way to empower others, reinforcing my belief in the transformative power of knowledge-sharing.
-
----
+Over the years, I’ve taken on roles like Customer Data Analyst, Product Owner, and Research Intern, which allowed me to apply technology to real-world challenges. Alongside my professional journey, I’ve embraced teaching and mentoring as a way to empower others, reinforcing my belief in the transformative power of knowledge-sharing.
 
 ### 🌟 Key Highlights  
 
@@ -37,8 +33,6 @@ Over the years, I’ve taken on roles like **Customer Data Analyst**, **Product 
 - **Leadership and Community Impact**  
   - Managed a 6,900+ member tech community as Executive Treasurer of the Macquarie Association of Computing Students.  
   - Mentored Vietnamese students in AI and technology careers through Tra Da Mentor, dedicating proceeds to charity.  
-
----
 
 ### 🛠️ Professional Experience  
 
@@ -62,8 +56,6 @@ Over the years, I’ve taken on roles like **Customer Data Analyst**, **Product 
 - Used Power BI to enhance customer satisfaction (95%) and retention (48.65%).  
 - Designed VIP customer care programs and agile marketing strategies.
 
----
-
 ### 📚 Academic, Research, and Mentorship Contributions  
 
 #### Research Assistant Intern  
@@ -80,8 +72,6 @@ Over the years, I’ve taken on roles like **Customer Data Analyst**, **Product 
 - Mentored Vietnamese students on academic and career paths in AI and technology.  
 - Directed mentorship proceeds to support underprivileged families through charity initiatives.
 
----
-
 ### 🏅 Leadership and Community Engagement  
 
 #### Executive Treasurer  
@@ -89,8 +79,6 @@ Over the years, I’ve taken on roles like **Customer Data Analyst**, **Product 
 - Managed financial operations for a 6,900+ member society.  
 - Co-led major events, including MACSCON 2024 and Astronomy Open Night.  
 - Increased society funds by $1,200 while organizing multiple successful events.
-
----
 
 ### 🌱 What Drives Me  
 
@@ -101,12 +89,8 @@ My work ethic revolves around:
 - **Collaboration**: Building connections across diverse teams to achieve impactful results.  
 - **Empowerment**: Helping others unlock their potential through shared knowledge and support.  
 
----
-
 ### 🎯 Looking Ahead  
 
 I aspire to contribute to Australia’s tech landscape as an AI/ML Engineer or Data Scientist while continuing to mentor and empower future generations. My vision is to bridge innovation and education, creating solutions that truly matter.
-
----
 
 ### Let’s Connect!   
