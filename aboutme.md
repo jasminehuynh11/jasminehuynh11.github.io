@@ -26,19 +26,76 @@ In my professional career, roles like Customer Data Analyst and Product Owner ta
 - Bachelor of Business Analytics – Macquarie University (2021 – 2023)  
   - WAM: 88.14/100 (Awarded Sydney Factory Award 2023 for Excellence in Cybersecurity Governance)  
 
-#### Professional Experience  
-- Research Intern at CSIRO x Pawsey Supercomputing Research Centre
-  - Utilized Large Language Models to simulate energy consumption patterns, advancing Australia’s energy transition initiatives.
-- Data and AI Strategy Analyst at Horizon X
-  - Designed AI governance frameworks and analyzed AI adoption trends in Australian retail.    
-- Product Owner at Buymed
-  - Spearheaded the development of ERP 2.0 and implemented a QR code system, reducing stock losses by 30.52%.    
+---
 
-#### Leadership and Community  
-- Executive Treasurer, Macquarie Association of Computing Students (MACS) 
-  - Co-hosted flagship events like MACSCON 2024, growing society funds and fostering a 6,900-member community.  
-- Career Mentor, Tra Da Mentor
-  - Guided Vietnamese students in career decisions and study-abroad aspirations, with a focus on AI and research.
+## 🌟 **Professional Journey**
+
+### **Industry Experience**
+
+#### **Research Intern**  
+CSIRO x Pawsey Supercomputing Research Centre (Nov 2024 – Present)  
+- Utilized high-performance computing (HPC) and Large Language Models (LLMs) to simulate energy consumption patterns for one million households.  
+- Advanced data-driven insights to support Australia’s energy transition and optimize power grid management.
+
+#### **Data and AI Strategy Analyst**  
+Horizon X (Apr 2024 – Aug 2024)  
+- Designed AI governance frameworks and developed readiness checklists for cybersecurity and data management.  
+- Delivered strategic insights on AI adoption trends in Australian retail, empowering clients to leverage emerging technologies.
+
+#### **Product Owner**  
+Buymed Vietnam (Sep 2020 – Feb 2021)  
+- Led the development of ERP 2.0, improving cross-department efficiency by 50%.  
+- Implemented a QR code system for inventory tracking, reducing stock losses by 30.52%.  
+
+#### **Customer Data Analyst**  
+Tiny Pretty Cake Vietnam (May 2019 – Sep 2020)  
+- Generated actionable insights with Microsoft Power BI, enhancing customer satisfaction to 95% and retention to 48.65%.  
+- Designed VIP customer care programs and led a team of four to execute agile marketing strategies.
+
+---
+
+### **Academic and Research Contributions**
+
+#### **Research Intern**  
+CSIRO x Pawsey Supercomputing Research Centre (Nov 2024 – Present)  
+- Utilized **high-performance computing (HPC)** and **Large Language Models (LLMs)** to simulate energy consumption patterns for one million households, addressing privacy and data consistency challenges.  
+- Advanced data-driven insights to support Australia’s energy transition and optimize power grid management.
+
+#### **Research Assistant Intern**  
+Centre for Applied Artificial Intelligence, Macquarie University (Jun 2024 – Present)  
+- Collaborated on projects involving large language models and text classification in healthcare applications.  
+- Contributed to the **ALOHA robot project**, developing real-time audio-to-text systems for robotic interactivity.  
+
+#### **Computing Drop-in Centre Assistant**  
+Macquarie University (Jul 2024 – Present)  
+- Guided students in **Python**, **Java**, and **SQL**, supporting coursework in data science, programming, and database systems.  
+- Fostered understanding of computing-related concepts and mentored students in technical problem-solving.
+
+#### **Career Mentor**  
+Tra Da Mentor (Nov 2024 – Present)  
+- Provided guidance to high school and university students in Vietnam on academic and career pathways, focusing on AI and technology careers.  
+- Dedicated all mentorship proceeds to supporting underprivileged families through the Mai Am Gia Dinh Viet program.  
+
+---
+
+### **Research Contributions**
+
+#### **Research Intern**  
+Centre for Applied Artificial Intelligence, Macquarie University (Jun 2024 – Present)  
+- Collaborated on projects involving large language models and text classification in healthcare applications.  
+- Contributed to the ALOHA robot project, developing real-time audio-to-text systems for robotic interactivity.
+
+#### **Research Intern**  
+CSIRO x Pawsey Supercomputing Research Centre (Details as above)  
+
+---
+### 🏅 **Leadership and Community Engagement**
+
+#### **Executive Treasurer**  
+Macquarie Association of Computing Students (MACS) (Jan 2024 – Present)  
+- Managed a 6,900+ member community, overseeing financial operations and strategic growth initiatives.  
+- Co-led flagship events such as MACSCON 2024 and the Astronomy Open Night Cosmic Arcade, fostering industry connections and community engagement.  
+- Successfully increased society funds by $1,200 while organizing multiple events and retaining merchandise for future use.  
 
 ---
 
