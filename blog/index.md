@@ -1,5 +1,5 @@
 ---
 layout: home
 title: Blog
-permalink: /blog/
+subtitle: Take a look at my ramblings!
 ---
