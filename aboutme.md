@@ -61,6 +61,3 @@ I am passionate about combining **technical expertise** with the art of **mentor
 
 I strive to create a meaningful impact. My core values revolve around **focus**, **collaboration**, and **perseverance**, and I believe that **knowledge grows when shared**.
 
----
-
-Feel free to [reach out](mailto:jasmine.huynh@mq.edu.au) or explore my work on [GitHub](https://github.com/jasminehuynh11) and [LinkedIn](https://www.linkedin.com/in/jasminehuynhinfo/).  
