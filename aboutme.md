@@ -28,11 +28,11 @@ In my professional career, roles like **Customer Data Analyst** and **Product Ow
 
 #### Professional Experience  
 - **Research Intern at CSIRO x Pawsey Supercomputing Research Centre**  
-  - Utilized Large Language Models to simulate energy consumption patterns, advancing Australia’s energy transition initiatives.  
-- **Product Owner at Buymed**  
-  - Spearheaded the development of ERP 2.0 and implemented a QR code system, reducing stock losses by 30.52%.  
+  - Utilized Large Language Models to simulate energy consumption patterns, advancing Australia’s energy transition initiatives.
 - **Data and AI Strategy Analyst at Horizon X**  
-  - Designed AI governance frameworks and analyzed AI adoption trends in Australian retail.  
+  - Designed AI governance frameworks and analyzed AI adoption trends in Australian retail.    
+- **Product Owner at Buymed**  
+  - Spearheaded the development of ERP 2.0 and implemented a QR code system, reducing stock losses by 30.52%.    
 
 #### Leadership and Community  
 - **Executive Treasurer, Macquarie Association of Computing Students (MACS)**  
