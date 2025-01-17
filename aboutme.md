@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: Learn more about my journey and aspirations!
+subtitle: Learn more about me and my journey!
 ---
 
 Hello! I’m Jasmine Huynh, an aspiring AI/ML Engineer and Data Scientist passionate about leveraging cutting-edge technology to solve complex problems and sharing knowledge through research and teaching.  
