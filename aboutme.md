@@ -58,6 +58,3 @@ My work ethic revolves around:
 I aspire to contribute to Australia’s tech landscape as a **research-driven AI/ML Engineer** or **Data Scientist** while continuing to mentor the next generation of innovators. I’m excited about the possibilities where innovation meets education, creating solutions that matter.
 
 Let’s connect!  
-- [GitHub](https://github.com/jasminehuynh11)  
-- [LinkedIn](https://www.linkedin.com/in/jasminehuynhinfo/)  
-- [Email Me](mailto:jasmine.huynh@mq.edu.au)
